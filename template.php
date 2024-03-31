@@ -69,7 +69,7 @@ $loeRepresententFirstName = "Micheal";
 $loeRepresententLastName = "Turner"; 
 
 // HR phone number / email adress or only one of them.
-$loeRepresententContact = "(306)222-4100/ micheal.turner@bbsaircraft.com"  ; 
+$loeRepresententContact = "(306)222-4100 / micheal.turner@bbsaircraft.com"  ; 
 
 //PROOF OF ADRESS (only fido for now) ----------- 
 
